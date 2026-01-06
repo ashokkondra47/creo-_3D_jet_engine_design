@@ -11,5 +11,4 @@ Designed a 3D jet engine using Creo Parametric based on standard engine dimensio
 ## 📁 Files Included
 - Native Creo files (.step)
 
-## 📎 Downloads
-- STEP file: CAD/piston.step
+
